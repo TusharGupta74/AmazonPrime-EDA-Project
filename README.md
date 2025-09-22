@@ -119,8 +119,8 @@ Contribution: Individual
 
 🔗 GitHub & Portfolio
 
-Portfolio
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?logo=google-chrome)](https://tushargupta74.github.io/TusharGupta.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tushar-gupta-7aa07927a/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/TusharGupta74)  
  
