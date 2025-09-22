@@ -119,13 +119,12 @@ Contribution: Individual
 
 🔗 GitHub & Portfolio
 
-📂 GitHub Repository
+Portfolio
 
-👨‍💻 Author: Tushar Gupta
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/tushar-gupta-7aa07927a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/TusharGupta74)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:tushargupta102001@gmail.com)  
 
-💼 LinkedIn
-
-🐙 GitHub Profile
 **
 **🙌 Conclusion**
 
